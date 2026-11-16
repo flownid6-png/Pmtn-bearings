@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "rolling-mills",
+    "name": "Rolling Mills",
+    "anchor": "rolling-mill",
+    "image": "assets/industries/rolling-mills.webp",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Four-Row Taper Roller Bearings",
+      "PMTN Four-Row Cylindrical Roller Bearings",
+      "PMTN Taper Roller Bearings",
+      "PMTN Spherical Roller Thrust Bearings",
+      "URB Spherical Roller Bearings",
+      "URB Cylindrical Roller Bearings"
+    ],
+    "intro": "Rolling mills use rotating stands and work rolls to reduce and shape metal stock. Bearing positions can see substantial radial loading, heat, vibration and repeated operating cycles. The right selection depends on the mill design, roll arrangement, shaft dimensions, speed and lubrication plan. Spherical roller and four-row taper roller bearing families are commonly considered for rolling mill equipment. Share the bearing number or machine position with our team so the specification can be checked against your requirement. Maintenance access and operating temperature should also be included when checking a bearing designation."
+  },
+  {
+    "slug": "mining-mineral-processing",
+    "name": "Mining & Mineral Processing",
+    "anchor": "pressure-mining",
+    "image": "assets/industries/mining.webp",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Spherical Roller Thrust Bearings"
+    ],
+    "intro": "Mining and mineral processing equipment operates in demanding environments that can include dust, impact, vibration and heavy rotating loads. Crushers, screens, conveyors and support rollers each have different bearing positions and operating conditions. Spherical roller bearing families are commonly used in equipment where alignment and load conditions need careful consideration. The suitable bearing depends on the shaft, housing, speed, contamination controls and maintenance practices. Send the equipment type and existing bearing designation to discuss an appropriate product enquiry. Equipment duty, impact levels and contamination controls help narrow the product enquiry."
+  },
+  {
+    "slug": "printing-packaging",
+    "name": "Printing & Packaging",
+    "anchor": "printing-packaging",
+    "image": "assets/industries/printing-packaging.webp",
+    "families": [
+      "PMTN Shafts",
+      "PMTN Linear Bearings",
+      "PMTN Linear Blocks",
+      "PMTN Linear Rails"
+    ],
+    "intro": "Printing and packaging lines use rollers, guides and motion components to move paper, film, labels and finished packs through repeated operations. Alignment and smooth linear movement can matter for web tracking, registration and changeovers. Shaft and linear bearing requirements vary by machine, stroke, load, speed and mounting arrangement. Share the component number or measured dimensions, along with the equipment model and application, so the right product range can be discussed. Final fit and specification should be confirmed for the machine."
+  },
+  {
+    "slug": "gym-equipment-manufacturing",
+    "name": "Gym Equipment Manufacturing",
+    "anchor": "gym-equipment",
+    "image": "assets/industries/gym-equipment.webp",
+    "families": [
+      "PMTN Shafts",
+      "PMTN Linear Bearings"
+    ],
+    "intro": "Gym equipment combines guided movement, rotating joints and repeated load cycles. Treadmills, strength machines and adjustable frames use components that must match the assembly dimensions and movement path. Shafts and linear bearings can be relevant to guided mechanisms, but the correct choice depends on the machine design, load, stroke, speed and environment. Share a drawing, existing part number or clear measurements with the enquiry. We can help identify a product category and confirm the exact specification before an order is placed."
+  },
+  {
+    "slug": "steel-plants",
+    "name": "Steel Plants",
+    "anchor": "steel-plants",
+    "image": "assets/industries/steel-plants.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Four-Row Taper Roller Bearings",
+      "PMTN Four-Row Cylindrical Roller Bearings",
+      "PMTN Spherical Roller Thrust Bearings",
+      "URB Spherical Roller Bearings",
+      "URB Cylindrical Roller Bearings"
+    ],
+    "intro": "Steel plant equipment can involve high loads, elevated temperatures, vibration and continuous production cycles. Conveyors, processing lines and mill stands each place different demands on rotating components. Spherical roller and four-row taper roller bearing families are commonly used in some steel plant applications, subject to the machine design and bearing position. Selection depends on load direction, speed, lubrication, shaft and housing dimensions, and operating environment. Share the machine details and existing designation so the requested product can be checked carefully."
+  },
+  {
+    "slug": "cement-plants",
+    "name": "Cement Plants",
+    "anchor": "cement-plants",
+    "image": "assets/industries/cement-plants.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Cylindrical Roller Bearings",
+      "PMTN Spherical Roller Thrust Bearings"
+    ],
+    "intro": "Cement production moves raw material and finished product through crushers, mills, kilns, fans and conveyors. Dust, heat, vibration and heavy loads may affect bearing positions and maintenance requirements. Spherical and cylindrical roller bearing families are commonly used in equipment across this sector, though each application requires its own engineering check. The suitable part depends on operating speed, load, temperature, sealing and lubrication conditions. Send the equipment name, bearing position and current part number for a product enquiry. Operating temperature, dust control and maintenance access should be considered for each position."
+  },
+  {
+    "slug": "power-plants",
+    "name": "Power Plants",
+    "anchor": "power-plants",
+    "image": "assets/industries/power-plants.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Cylindrical Roller Bearings"
+    ],
+    "intro": "Power generation sites include rotating equipment, material handling systems, fans, pumps and auxiliary machinery. Bearing requirements differ between machine types and can depend on speed, load, temperature, alignment and lubrication. Spherical and cylindrical roller bearing families are commonly considered for selected industrial applications. Equipment drawings or an existing bearing designation help identify the intended fit and arrangement. Share the machine details and operating conditions with our team; confirm the final specification with the equipment manufacturer or responsible engineer. Equipment design, operating speed and maintenance conditions shape the product selection enquiry."
+  },
+  {
+    "slug": "paper-pulp-mills",
+    "name": "Paper & Pulp Mills",
+    "anchor": "paper-pulp-mills",
+    "image": "assets/industries/paper-pulp-mills.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Cylindrical Roller Bearings"
+    ],
+    "intro": "Paper and pulp machinery includes rolls, dryers, refiners, pumps and continuous material handling. Equipment can operate for long cycles and may encounter moisture, heat, vibration or process contamination. Spherical and cylindrical roller bearing families are commonly used in parts of this sector, depending on the machine position and load arrangement. Correct identification requires the bearing code, shaft and housing details, speed, sealing and lubrication context. Send the existing designation or technical drawing to start an enquiry and confirm the exact specification."
+  },
+  {
+    "slug": "conveyors-material-handling",
+    "name": "Conveyors & Material Handling",
+    "anchor": "conveyors-material-handling",
+    "image": "assets/industries/conveyors-material-handling.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Ball Bearings"
+    ],
+    "intro": "Conveyors and material handling systems move bulk or packaged goods through production, storage and dispatch. Idlers, pulleys, rollers and drive assemblies have different loads, speeds and contamination exposure. Spherical roller bearings and ball bearing families are commonly used in this broad equipment group, depending on the design and duty. The correct component depends on the position, shaft size, load, speed, seals and maintenance plan. Share the machine or conveyor details and the complete existing bearing number for review. Load direction, shaft dimensions and operating environment vary between conveyor positions."
+  },
+  {
+    "slug": "crushers-screening-equipment",
+    "name": "Crushers & Screening Equipment",
+    "anchor": "crushers-screening-equipment",
+    "image": "assets/industries/crushers-screening-equipment.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "PMTN Spherical Roller Thrust Bearings"
+    ],
+    "intro": "Crushers and screening equipment process material through repeated impact, vibration and rotating motion. Bearing positions may experience heavy loads and challenging contamination conditions, so correct mounting, lubrication and maintenance are important. Spherical roller and spherical roller thrust bearing families are commonly used in selected machine arrangements, subject to the equipment design. Bearing choice depends on load direction, shaft and housing fit, speed and operating environment. Share the equipment model and existing bearing designation to discuss the specific requirement. Shaft size, operating speed and maintenance conditions help define the enquiry."
+  },
+  {
+    "slug": "agriculture-machinery",
+    "name": "Agriculture Machinery",
+    "anchor": "agriculture-machinery",
+    "image": "assets/industries/agriculture-machinery.png",
+    "families": [
+      "PMTN Ball Bearings",
+      "PMTN Taper Roller Bearings"
+    ],
+    "intro": "Agricultural machines work across changing loads, speeds and environments. Tractors, implements, harvesters and processing equipment may use bearings in wheels, shafts and rotating assemblies. Ball and taper roller bearing families are commonly used across some agricultural machinery applications, with selection depending on the design and operating position. Dust, moisture, shock loading and service conditions can influence the required arrangement. Share the machine make, model, bearing number and application so the component can be checked against the intended fit. Share the machine position and operating conditions to help confirm the suitable designation."
+  },
+  {
+    "slug": "machine-tools-automation",
+    "name": "Machine Tools & Automation",
+    "anchor": "machine-tools-automation",
+    "image": "assets/industries/machine-tools-automation.png",
+    "families": [
+      "PMTN Linear Bearings",
+      "PMTN Linear Blocks",
+      "PMTN Linear Rails",
+      "PMTN Ball Bearings"
+    ],
+    "intro": "Machine tools and automated production systems rely on controlled movement, repeatability and correctly matched components. Linear guides, blocks and bearings support guided travel, while ball bearings may be used in rotating assemblies. The required product depends on rail profile, length, stroke, load, speed, mounting and machine accuracy requirements. Existing part references or drawings make identification easier. Share the equipment model, desired motion and measured details to begin a product enquiry, then confirm the final selection with the machine builder or engineering team."
+  },
+  {
+    "slug": "wire-rod-mills",
+    "name": "Wire & Rod Mills",
+    "anchor": "wire-rod-mills",
+    "image": "assets/industries/wire-rod-mills.png",
+    "families": [
+      "PMTN Spherical Roller Bearings",
+      "URB Spherical Roller Bearings",
+      "URB Cylindrical Roller Bearings"
+    ],
+    "intro": "Spherical roller bearings are commonly used in wire rod mills, wire drawing lines, finishing blocks, high-speed rolling stands, coiling and packaging. The application information supplied describes high load capacity, high-speed reliability, heat and wear resistance, precision, stability and longer service life."
+  },
+  {
+    "slug": "tube-wire-straightening",
+    "name": "Tube & Wire Straightening",
+    "anchor": "tube-wire-straightening",
+    "image": "assets/industries/tube-wire-straightening.png",
+    "families": [
+      "PMTN Taper Roller Bearings",
+      "URB Spherical Roller Bearings",
+      "URB Cylindrical Roller Bearings"
+    ],
+    "intro": "Taper roller bearings are engineered for precision straightening of tubes and wires. Common applications include tube straightening machines, wire drawing lines, cold drawing mills, steel tube plants and precision tube manufacturing."
+  },
+  {
+    "slug": "cable-manufacturing",
+    "name": "Cable Manufacturing",
+    "anchor": "cable-manufacturing",
+    "image": "assets/industries/cable-manufacturing.png",
+    "families": [
+      "PMTN Ball Bearings"
+    ],
+    "intro": "High-performance precision ball bearings are specified for automatic skip stranding machines operating above 1100 RPM. Common applications include automatic skip stranding machines, cable manufacturing plants, high-speed operation and continuous industrial duty."
+  }
+]
